@@ -2,32 +2,37 @@
 
 ## summary
 
-Science, engineering, and technology permeate nearly every facet of modern life, and they also hold the key to meeting many of humanity’s most pressing current and future challenges. Yet too few U.S. workers have strong backgrounds in these fields, and many people lack even fundamental knowledge of them. This national trend has created a widespread call for a new approach to K-12 science education in the United States.[1]
+Science, engineering, and technology permeate nearly every facet of modern life, and they also hold the key to meeting many of humanity’s most pressing current and future challenges. 
+Yet too few U.S. workers have strong backgrounds in these fields, and many people lack even fundamental knowledge of them. 
+This national trend has created a widespread call for a new approach to K-12 science education in the United States.
 
-The Committee on a Conceptual Framework for New K-12 Science Education Standards was charged with developing a framework that articulates a broad set of expectations for students in science. The overarching goal of our framework for K-12 science education is to ensure that by the end of 12th grade, all students have some appreciation of the beauty and wonder of science; possess sufficient knowledge of science and engineering to engage in public discussions on related issues; are careful consumers of scientific and technological information related to their everyday lives; are able to continue to learn about science outside school; and have the skills to enter careers of their choice, including (but not limited to) careers in science, engineering, and technology.
+The Committee on a Conceptual Framework for New K-12 Science Education Standards was charged with developing a framework that articulates a broad set of expectations for students in science. 
+The overarching goal of our framework for K-12 science education is to ensure that by the end of 12th grade, all students have some appreciation of the beauty and wonder of science; possess sufficient knowledge of science and engineering to engage in public discussions on related issues; are careful consumers of scientific and technological information related to their everyday lives; are able to continue to learn about science outside school; and have the skills to enter careers of their choice, including (but not limited to) careers in science, engineering, and technology.
 
 Currently, K-12 science education in the United States fails to achieve these outcomes, in part because it is not organized systematically across multiple years of school, emphasizes discrete facts with a focus on breadth over depth, and does not provide students with engaging opportunities to experience how science is actually done. The framework is designed to directly address and overcome these weaknesses.
 
-The framework is based on a rich and growing body of research on teaching and learning in science, as well as on nearly two decades of efforts to define foundational knowledge and skills for K-12 science and engineering. From this work, the committee concludes that K-12 science and engineering education should focus on a limited number of disciplinary core ideas and crosscutting concepts, be designed so that students continually build on and revise their knowledge and abilities over
-multiple years, and support the integration of such knowledge and abilities with the practices needed to engage in scientific inquiry and engineering design.
+The framework is based on a rich and growing body of research on teaching and learning in science, as well as on nearly two decades of efforts to define foundational knowledge and skills for K-12 science and engineering. 
+From this work, the committee concludes that K-12 science and engineering education should focus on a limited number of disciplinary core ideas and crosscutting concepts, be designed so that students continually build on and revise their knowledge and abilities over multiple years, and support the integration of such knowledge and abilities with the practices needed to engage in scientific inquiry and engineering design.
 
-The committee recommends that science education in grades K-12 be built around three major dimensions (see Box S-1 for details of each dimension). These dimensions are
-
+The committee recommends that science education in grades K-12 be built around three major dimensions (see Box S-1 for details of each dimension). 
+These dimensions are
 - Scientific and engineering practices
 - Crosscutting concepts that unify the study of science and engineering through their common application across fields
 - Core ideas in four disciplinary areas: physical sciences; life sciences; earth and space sciences; and engineering technology, and applications of science
 
-To support students’ meaningful learning in science and engineering, all three dimensions need to be integrated into standards, curriculum, instruction, and assessment. Engineering and technology are featured alongside the natural sciences
-(physical sciences, life sciences, and earth and space sciences) for two critical reasons: (1) to reflect the importance of understanding the human-built world and (2) to recognize the value of better integrating the teaching and learning of science,
-engineering, and technology.
+To support students’ meaningful learning in science and engineering, all three dimensions need to be integrated into standards, curriculum, instruction, and assessment. 
+Engineering and technology are featured alongside the natural sciences(physical sciences, life sciences, and earth and space sciences) for two critical reasons: 
+(1) to reflect the importance of understanding the human-built world and 
+(2) to recognize the value of better integrating the teaching and learning of science, engineering, and technology.
 
-The broad set of expectations for students articulated in the framework is intended to guide the development of new standards that in turn guide revisions to science-related curriculum, instruction, assessment, and professional development for educators. A coherent and consistent approach throughout grades K-12 is key to realizing the vision for science and engineering education embodied in the framework: that students, over multiple years of school, actively engage in science
-and engineering practices and apply crosscutting concepts to deepen their understanding of each field’s disciplinary core ideas.
+The broad set of expectations for students articulated in the framework is intended to guide the development of new standards that in turn guide revisions to science-related curriculum, instruction, assessment, and professional development for educators. 
+A coherent and consistent approach throughout grades K-12 is key to realizing the vision for science and engineering education embodied in the framework: that students, over multiple years of school, actively engage in science and engineering practices and apply crosscutting concepts to deepen their understanding of each field’s disciplinary core ideas.
 
-The framework represents the first step in a process that should inform state-level decisions and provide a research-grounded basis for improving science teaching and learning across the country. It is intended to guide standards developers, curriculum designers, assessment developers, state and district science administrators, professionals responsible for science teacher education, and science educators working in informal settings.
+The framework represents the first step in a process that should inform state-level decisions and provide a research-grounded basis for improving science teaching and learning across the country. 
+It is intended to guide standards developers, curriculum designers, assessment developers, state and district science administrators, professionals responsible for science teacher education, and science educators working in informal settings.
 
-The report also identifies the challenges inherent in aligning the components of K-12 science education with this new vision for science and engineering education, provides recommendations for standards development, and lays out a research agenda that would generate the insights needed to update the framework and inform new standards in the future. The committee emphasizes that greater improvements in K-12 science and engineering education will be made when all
-components of the system—from standards and assessments, to support for new and established teachers, to providing sufficient time for learning science—are aligned with the framework’s vision.
+The report also identifies the challenges inherent in aligning the components of K-12 science education with this new vision for science and engineering education, provides recommendations for standards development, and lays out a research agenda that would generate the insights needed to update the framework and inform new standards in the future. 
+The committee emphasizes that greater improvements in K-12 science and engineering education will be made when all components of the system—from standards and assessments, to support for new and established teachers, to providing sufficient time for learning science—are aligned with the framework’s vision.
 
 BOX S-1
 THE THREE DIMENSIONS OF THE FRAMEWORK
@@ -143,42 +148,28 @@ and generate a desire to pursue science- or engineering-based careers.
 
 #### Achieving the Vision
 
-The framework is motivated in part by a growing national consensus around the
-need for greater coherence—that is, a sense of unity—in K-12 science education.
-Too often, standards are long lists of detailed and disconnected facts, reinforcing
-the criticism that science curricula in the United States tend to be “a mile wide
-and an inch deep” [1]. Not only is such an approach alienating to young people,
-but it can also leave them with just fragments of knowledge and little sense of the
-creative achievements of science, its inherent logic and consistency, and its universality. Moreover, that approach neglects the need for students to develop an
-understanding of the practices of science and engineering, which is as important to
-understanding science as knowledge of its content.
+The framework is motivated in part by a growing national consensus around the need for greater coherence—that is, a sense of unity—in K-12 science education.
+Too often, standards are long lists of detailed and disconnected facts, reinforcing the criticism that science curricula in the United States tend to be “a mile wide and an inch deep” [1]. 
+Not only is such an approach alienating to young people, but it can also leave them with just fragments of knowledge and little sense of the creative achievements of science, its inherent logic and consistency, and its universality. 
+Moreover, that approach neglects the need for students to develop an understanding of the practices of science and engineering, which is as important to understanding science as knowledge of its content.
+The framework endeavors to move science education toward a more coherent vision in three ways. 
 
-The framework endeavors to move science education toward a more coherent
-vision in three ways. First, it is built on the notion of learning as a developmental progression. It is designed to help children continually build on and revise their
-knowledge and abilities, starting from their curiosity about what they see around
-them and their initial conceptions about how the world works. The goal is to guide
-their knowledge toward a more scientifically based and coherent view of the sciences and engineering, as well as of the ways in which they are pursued and their results can be used.
+First, it is built on the notion of learning as a developmental progression. 
+It is designed to help children continually build on and revise their knowledge and abilities, starting from their curiosity about what they see around them and their initial conceptions about how the world works. 
+The goal is to guide their knowledge toward a more scientifically based and coherent view of the sciences and engineering, as well as of the ways in which they are pursued and their results can be used.
 
-Second, the framework focuses on a limited number of core ideas in science and engineering both within and across the disciplines. The committee
-made this choice in order to avoid shallow coverage of a large number of topics
-and to allow more time for teachers and students to explore each idea in greater
-depth. Reduction of the sheer sum of details to be mastered is intended to give
-time for students to engage in scientific investigations and argumentation and to
-achieve depth of understanding of the core ideas presented. Delimiting what is to
-be learned about each core idea within each grade band also helps clarify what
-is most important to spend time on and avoid the proliferation of detail to be
-learned with no conceptual grounding.
+Second, the framework focuses on a limited number of core ideas in science and engineering both within and across the disciplines. 
+The committee made this choice in order to avoid shallow coverage of a large number of topics and to allow more time for teachers and students to explore each idea in greater depth. 
+Reduction of the sheer sum of details to be mastered is intended to give time for students to engage in scientific investigations and argumentation and to achieve depth of understanding of the core ideas presented. 
+Delimiting what is to be learned about each core idea within each grade band also helps clarify what is most important to spend time on and avoid the proliferation of detail to be learned with no conceptual grounding.
 
-Third, the framework emphasizes that learning about science and engineer-
-ing involves integration of the knowledge of scientific explanations (i.e., content
-knowledge) and the practices needed to engage in scientific inquiry and engineer-
-ing design. Thus the framework seeks to illustrate how knowledge and practice
-must be intertwined in designing learning experiences in K-12 science education.
+Third, the framework emphasizes that learning about science and engineering involves integration of the knowledge of scientific explanations (i.e., content knowledge) and the practices needed to engage in scientific inquiry and engineering design. 
+Thus the framework seeks to illustrate how knowledge and practice must be intertwined in designing learning experiences in K-12 science education.
+
 #### Limitations of This Framework
 
-The terms “science,” “engineering,” and “technology” are often lumped together
-as a single phrase, both in this report and in education policy circles. But it is
-important to define what is meant by each of these terms in this report—and why.
+The terms “science,” “engineering,” and “technology” are often lumped together as a single phrase, both in this report and in education policy circles. 
+But it is important to define what is meant by each of these terms in this report—and why.
 
 In the K-12 context, science is generally taken to mean the traditional natural sciences: physics, chemistry, biology, and (more recently) earth, space, and
 environmental sciences. In this document, we include core ideas for these disciplinary areas, but not for all areas of science, as discussed further below. This limitation matches our charge and the need of schools for a next generation of standards in these areas. Engineering and technology are included as they relate to the

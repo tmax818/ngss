@@ -12,7 +12,7 @@ most pressing current and future challenges. Yet too few U.S. workers
 have strong backgrounds in these fields, and many people lack even
 fundamental knowledge of them. This national trend has created a
 widespread call for a new approach to K-12 science education in the
-United States.[1]
+United States.
 
 The Committee on a Conceptual Framework for New K-12 Science Education
 Standards was charged with developing a framework that articulates a
@@ -240,16 +240,8 @@ solving the problems of global environmental change. In addition,
 although not all students will choose to pursue careers in science,
 engineering, or technology, we hope that a science education based on
 the framework will motivate and inspire a greater number of people---and
-a better representation
-
-❚ The framework is designed to help realize a vision for education in
-the sciences and engineering in which students, over multiple years of
-school, actively engage in scientific and engineering practices and
-apply crosscutting concepts to deepen their understanding of the core
-ideas in these fields. ❚
-
-of the broad diversity of the American population---to follow these
-paths than is the case today.
+a better representation of the broad diversity of the American
+population---to follow these paths than is the case today.
 
 The committee's vision takes into account two major goals for K-12
 science education: (1) educating all students in science and engineering
@@ -530,22 +522,23 @@ science learning as well as research and evaluation evidence related to
 standards-based education reform. This will include existing efforts to
 specify central ideas for science education, including the National
 Science Education Standards, AAAS Benchmarks, the 2009 NAEP Framework,
-and the redesign of the AP courses by the College Board. The conceptual
-framework developed by the committee will identify and articulate the
-core ideas in science around which standards should be developed by
-considering core ideas in the disciplines of science (life sciences,
-physical sciences, earth and space sciences, and applied sciences) as
-well as crosscutting ideas such as mathematization,* causal reasoning,
-evaluating and using evidence, argumentation, and model development. The
-committee will illustrate with concrete examples how crosscutting ideas
-may play out in the context of select core disciplinary ideas and
-articulate expectations for students' learning of these ideas for at
-least three key grade levels. In parallel, the committee will develop a
-research and development plan to inform future revisions of the
-standards. Specifically in its consensus report, the committee will •
-identify a small set of core ideas in each of the major science
-disciplines, as well as those ideas that cut across disciplines, using a
-set of criteria developed by the committee • develop guidance on
+and the redesign of the AP courses by the College Board.
+
+The conceptual framework developed by the committee will identify and
+articulate the core ideas in science around which standards should be
+developed by considering core ideas in the disciplines of science (life
+sciences, physical sciences, earth and space sciences, and applied
+sciences) as well as crosscutting ideas such as mathematization,* causal
+reasoning, evaluating and using evidence, argumentation, and model
+development. The committee will illustrate with concrete examples how
+crosscutting ideas may play out in the context of select core
+disciplinary ideas and articulate expectations for students' learning of
+these ideas for at least three key grade levels. In parallel, the
+committee will develop a research and development plan to inform future
+revisions of the standards. Specifically in its consensus report, the
+committee will • identify a small set of core ideas in each of the major
+science disciplines, as well as those ideas that cut across disciplines,
+using a set of criteria developed by the committee • develop guidance on
 implementation of the framework • articulate how these disciplinary
 ideas and crosscutting ideas intersect for at least three grade levels •
 create examples of performance expectations • discuss implications of
@@ -560,36 +553,34 @@ that are most important for all students in grades K-12 to learn---
 means that the committee ultimately had to rely heavily on its own
 expertise and collective judgments. To the extent possible, however, we
 used research-based evidence and past efforts to inform these judgments.
-Our approach combined 16 A Framework for K-12 Science Education
-Copyright National Academy of Sciences. All rights reserved.A Framework
-for K-12 Science Education: Practices, Crosscutting Concepts, and Core
-Ideas evidence on the learning and teaching of science and engineering
-with a detailed examination of previous science standards documents. It
-is important to note that even where formal research is limited, the
-report is based on the collective experience of the science education
-and science education research communities. All the practices suggested
-have been explored in classrooms, as have the crosscutting concepts
-(though perhaps under other names such as “unifying themes”). Design
-Teams The committee's work was significantly advanced by the
-contributions of four design teams, which were contracted by the NRC to
-prepare materials that described the core ideas in the natural sciences
-and engineering and outlined how these ideas could be developed across
-grades K-12. Each team had a designated leader who provided guidance and
-interacted frequently with the committee. The materials developed by the
-teams form the foundation for the core disciplinary ideas and grade band
-endpoints described in this report (Chapters 5-8). A list of the design
-team participants appears in Appendix D. The design teams were asked to
-begin their work by considering the ideas and practices described in the
-NSES [3], AAAS Benchmarks [4], Science Framework for the 2009 NAEP [6],
-and Science College Board Standards for College Success [7] as well as
-the relevant research on learning and teaching in science. The teams
-prepared drafts and presented them to the committee dur- ing the closed
-portions of our first three meetings. Between meetings, the teams
-revised their drafts in response to committee comments. Following the
-release of the July 2010 draft (see the next section), the leaders of
-the design teams continued to interact with committee members as they
-planned the revisions of the draft framework. No members of the design
-teams participated in the discussions during which the committee reached
+Our approach combined evidence on the learning and teaching of science
+and engineering with a detailed examination of previous science
+standards documents. It is important to note that even where formal
+research is limited, the report is based on the collective experience of
+the science education and science education research communities. All
+the practices suggested have been explored in classrooms, as have the
+crosscutting concepts (though perhaps under other names such as
+“unifying themes”). Design Teams The committee's work was significantly
+advanced by the contributions of four design teams, which were
+contracted by the NRC to prepare materials that described the core ideas
+in the natural sciences and engineering and outlined how these ideas
+could be developed across grades K-12. Each team had a designated leader
+who provided guidance and interacted frequently with the committee. The
+materials developed by the teams form the foundation for the core
+disciplinary ideas and grade band endpoints described in this report
+(Chapters 5-8). A list of the design team participants appears in
+Appendix D. The design teams were asked to begin their work by
+considering the ideas and practices described in the NSES [3], AAAS
+Benchmarks [4], Science Framework for the 2009 NAEP [6], and Science
+College Board Standards for College Success [7] as well as the relevant
+research on learning and teaching in science. The teams prepared drafts
+and presented them to the committee dur- ing the closed portions of our
+first three meetings. Between meetings, the teams revised their drafts
+in response to committee comments. Following the release of the July
+2010 draft (see the next section), the leaders of the design teams
+continued to interact with committee members as they planned the
+revisions of the draft framework. No members of the design teams
+participated in the discussions during which the committee reached
 consensus on the content of the final draft.
 
 ❚ The framework and subsequent standards will not lead to improvements
@@ -597,8 +588,10 @@ in K-12 science education unless the other components of the system---
 curriculum, instruction, professional development, and assessment---
 change so that they are aligned with the framework's vision. ❚
 
-Public Feedback
-
+**** Public Feedback
+:PROPERTIES:
+:CUSTOM_ID: public-feedback
+:END:
 The committee recognized early in the process that obtaining feedback
 from a broad range of stakeholders and experts would be crucial to the
 success of the framework. For this reason, we obtained permission from
@@ -632,8 +625,10 @@ framework based on the feedback. A summary of the major issues raised in
 the public feedback and the revisions the committee made is included in
 Appendix A.
 
-Structure of the Report
-
+**** Structure of the Report
+:PROPERTIES:
+:CUSTOM_ID: structure-of-the-report
+:END:
 The first nine chapters of this report outline the principles underlying
 the frame- work, describe the core ideas and practices for K-12
 education in the natural sciences and engineering, and provide examples
@@ -651,41 +646,45 @@ allow a systematic implementation of the framework and related
 standards. The chapter also specifies the kinds of research needed for
 future iterations of the standards to be better grounded in evidence.
 
-NEXT STEPS The National Governors Association and the Council of Chief
-State School Officers have developed “Common Core State Standards” in
-mathematics and language arts, and 43 states and the District of
-Columbia have adopted these standards as of early 2011. The anticipation
-of a similar effort for science standards was a prime motivator for this
-NRC study and the resulting framework described in this report. To
-maintain the momentum, the Carnegie Corporation commissioned the
-nonpartisan and nonprofit educational reform organization Achieve, Inc.,
-to lead states in developing new science standards based on the NRC
-framework in this report. There is no prior commitment from multiple
-states to adopt such stan- dards, so the process will be different from
-the Common Core process used for mathematics and language arts. But it
-is expected that Achieve will form partner- ships with a number of
-states in undertaking this work and will offer multiple opportunities
-for public comment. As our report was being completed, Achieve's work on
-science standards was already under way, starting with an analysis of
-international science bench- marking in high-performing countries that
-is expected to inform the standards development process. We understand
-that Achieve has also begun some prelimi- nary planning for that process
-based on the draft framework that was circulated for public comment in
-summer 2010. The relevance of such work should deepen once the revised
-framework in this report, on which Achieve's standards will be based, is
-released. It should be noted, however, that our study and the framework
-described in this report are independent of the work of Achieve. The
-framework and any standards that will be based on it make explicit the
-goals around which a science education system should be organized [9].
-The com- mittee recognizes, however, that the framework and subsequent
-standards will not A New Conceptual Framework Copyright National Academy
-of Sciences. All rights reserved. 19A Framework for K-12 Science
-Education: Practices, Crosscutting Concepts, and Core Ideas lead to
-improvements in K-12 science education unless the other components of
-the system---curriculum, instruction, professional development, and
+**** NEXT STEPS
+:PROPERTIES:
+:CUSTOM_ID: next-steps
+:END:
+The National Governors Association and the Council of Chief State School
+Officers have developed “Common Core State Standards” in mathematics and
+language arts, and 43 states and the District of Columbia have adopted
+these standards as of early 2011. The anticipation of a similar effort
+for science standards was a prime motivator for this NRC study and the
+resulting framework described in this report. To maintain the momentum,
+the Carnegie Corporation commissioned the nonpartisan and nonprofit
+educational reform organization Achieve, Inc., to lead states in
+developing new science standards based on the NRC framework in this
+report. There is no prior commitment from multiple states to adopt such
+standards, so the process will be different from the Common Core process
+used for mathematics and language arts. But it is expected that Achieve
+will form partner- ships with a number of states in undertaking this
+work and will offer multiple opportunities for public comment. As our
+report was being completed, Achieve's work on science standards was
+already under way, starting with an analysis of international science
+bench- marking in high-performing countries that is expected to inform
+the standards development process. We understand that Achieve has also
+begun some preliminary planning for that process based on the draft
+framework that was circulated for public comment in summer 2010. The
+relevance of such work should deepen once the revised framework in this
+report, on which Achieve's standards will be based, is released. It
+should be noted, however, that our study and the framework described in
+this report are independent of the work of Achieve. The framework and
+any standards that will be based on it make explicit the goals around
+which a science education system should be organized [9]. The committee
+recognizes, however, that the framework and subsequent standards will
+not A New Conceptual Framework Copyright National Academy of Sciences.
+All rights reserved. 19A Framework for K-12 Science Education:
+Practices, Crosscutting Concepts, and Core Ideas lead to improvements in
+K-12 science education unless the other components of the
+system---curriculum, instruction, professional development, and
 assessment--- change so that they are aligned with the framework's
 vision. Thus the framework and standards are necessary but not
-sufficient to support the desired improve- ments. In Chapter 10, we
+sufficient to support the desired improvements. In Chapter 10, we
 address some of the challenges inherent in achieving such alignment.
 
 **** REFERENCES
