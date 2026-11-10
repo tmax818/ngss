@@ -348,7 +348,7 @@ educators, including teachers, and the public.
     recognize the interplay among science, engineering, and technology.
     We are convinced that engagement in the practices of engineering
     design is as much a part of learning science as engagement in the
-    practices of science \[2\].
+    practices of science [^3].
 
     It is important to note, however, that the framework is not intended
     to define course structure, particularly at the high school level.
@@ -400,13 +400,13 @@ educators, including teachers, and the public.
 
     Third, the committee based the framework on existing documents that
     out- line the major ideas for K-12 science education, including the
-    National Science Education Standards (NSES) \[3\], the Benchmarks
-    for Science Literacy \[4\] and the accompanying Atlas \[5\], the
-    Science Framework for the 2009 National Assessment of Educational
-    Progress (NAEP) \[6\], and the Science College Board Standards for
-    College Success \[7\]. Most of these documents do not cover all of
-    the fields that are part of the social, behavioral, and economic
-    sciences comprehensively, and some omit them entirely.
+    National Science Education Standards (NSES) [^4], the Benchmarks for
+    Science Literacy [^5] and the accompanying Atlas [^6], the Science
+    Framework for the 2009 National Assessment of Educational Progress
+    (NAEP) [^7], and the Science College Board Standards for College
+    Success [^8]. Most of these documents do not cover all of the fields
+    that are part of the social, behavioral, and economic sciences
+    comprehensively, and some omit them entirely.
 
     Fourth, understanding how to integrate the social, behavioral, and
     economic sciences into standards, given how subjects are currently
@@ -421,7 +421,7 @@ educators, including teachers, and the public.
     Studies has a set of National Curriculum Standards for Social
     Studies that includes standards in such areas as psychology,
     sociology, geography, anthropol- ogy, political science, and
-    economics \[8\].
+    economics [^9].
 
     The limited treatment of these fields in this report\'s framework
     should not, however, be interpreted to mean that the social,
@@ -582,9 +582,9 @@ educators, including teachers, and the public.
     ideas and grade band endpoints described in this report (Chapters
     5-8). A list of the design team participants appears in Appendix D.
     The design teams were asked to begin their work by considering the
-    ideas and practices described in the NSES \[3\], AAAS Benchmarks
-    \[4\], Science Framework for the 2009 NAEP \[6\], and Science
-    College Board Standards for College Success \[7\] as well as the
+    ideas and practices described in the NSES [^10], AAAS Benchmarks
+    [^11], Science Framework for the 2009 NAEP [^12], and Science
+    College Board Standards for College Success [^13] as well as the
     relevant research on learning and teaching in science. The teams
     prepared drafts and presented them to the committee dur- ing the
     closed portions of our first three meetings. Between meetings, the
@@ -686,7 +686,7 @@ educators, including teachers, and the public.
     noted, however, that our study and the framework described in this
     report are independent of the work of Achieve. The framework and any
     standards that will be based on it make explicit the goals around
-    which a science education system should be organized [^3]. The com-
+    which a science education system should be organized [^14]. The com-
     mittee recognizes, however, that the framework and subsequent
     standards will not A New Conceptual Framework Copyright National
     Academy of Sciences. All rights reserved. 19A Framework for K-12
@@ -710,42 +710,6 @@ educators, including teachers, and the public.
     U.S. National Research Center for the Third International
     Mathematics and Science Study. Boston, MA: Kluwer Academic.
 
-    National Academy of Engineering and National Research Council.
-    (2009). Engineering in K-12 Education: Understanding the Status and
-    Improving the Prospect. Committee on K-12 Engineering Education. L.
-    Katehi, G. Pearson, and M. Feder (Eds.). National Academy of
-    Engineering. Board on Science Education, Center for Education,
-    Division of Behavioral and Social Sciences and Education.
-    Washington, DC: The National Academies Press.
-
-    National Research Council. (1996). National Science Education
-    Standards. National Committee for Science Education Standards and
-    Assessment. Washington, DC: National Academy Press.
-
-    American Association for the Advancement of Science. (1993).
-    Benchmarks for Science Literacy. Project 2061. New York: Oxford
-    University Press. Available: <http://>
-    www.project2061.org/publications/bsl/online/index.php?txtRef=http%3A%2F%2F
-    www%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3Ftxt
-    Ref%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURI
-    Old=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm \[June 2011\].
-
-    American Association for the Advancement of Science. (2007). Atlas
-    of Science Literacy, Volumes 1 and 2. Project 2061. Washington, DC:
-    Author. National Assessment of Educational Progress. (2009). Science
-    Framework for the 2009 National Assessment of Educational Progress.
-    Washington, DC: U.S. Government Printing Office. Developed for the
-    National Assessment Governing Board. Available:
-    <http://www.nagb.org/publications/frameworks/science-09.pdf> \[June
-    2011\]. College Board. (2009). Science College Board Standards for
-    College Success. Available:
-    <http://professionals.collegeboard.com/profdownload/cbscs-science->
-    standards-2009.pdf \[June 2011\].
-
-    National Council for the Social Studies. (2010). National Curriculum
-    Standards for Social Studies: A Framework for Teaching, Learning,
-    and Assessment. Silver Spring, MD: Author.
-
 [^2]:
     ``` example
     Schmidt, W.H., McKnight, C.C., and Raizen, S. (1997). A Splintered
@@ -755,7 +719,11 @@ educators, including teachers, and the public.
     U.S. National Research Center for the Third International
     Mathematics and Science Study. Boston, MA: Kluwer Academic.
 
+[^3]:
+    ``` example
     National Academy of Engineering and National Research Council.
+    ```
+
     (2009). Engineering in K-12 Education: Understanding the Status and
     Improving the Prospect. Committee on K-12 Engineering Education. L.
     Katehi, G. Pearson, and M. Feder (Eds.). National Academy of
@@ -763,35 +731,99 @@ educators, including teachers, and the public.
     Division of Behavioral and Social Sciences and Education.
     Washington, DC: The National Academies Press.
 
+[^4]:
+    ``` example
     National Research Council. (1996). National Science Education
+    ```
+
     Standards. National Committee for Science Education Standards and
     Assessment. Washington, DC: National Academy Press.
 
+[^5]:
+    ``` example
     American Association for the Advancement of Science. (1993).
-    Benchmarks for Science Literacy. Project 2061. New York: Oxford
-    University Press. Available: <http://>
-    www.project2061.org/publications/bsl/online/index.php?txtRef=http%3A%2F%2F
-    www%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3Ftxt
-    Ref%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURI
-    Old=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm \[June 2011\].
+    ```
 
+    Benchmarks for Science Literacy. Project 2061. New York: Oxford
+    University Press. Available:
+    <http://www.project2061.org/publications/bsl/online/index.phptxtRef=http%3A%2F%2Fwww%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3FtxtRef%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURIOld=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm>
+    \[June 2011\].
+
+[^6]:
+    ``` example
     American Association for the Advancement of Science. (2007). Atlas
+    ```
+
     of Science Literacy, Volumes 1 and 2. Project 2061. Washington, DC:
-    Author. National Assessment of Educational Progress. (2009). Science
+    Author.
+
+[^7]:
+    ``` example
+    National Assessment of Educational Progress. (2009). Science
+    ```
+
     Framework for the 2009 National Assessment of Educational Progress.
     Washington, DC: U.S. Government Printing Office. Developed for the
     National Assessment Governing Board. Available:
     <http://www.nagb.org/publications/frameworks/science-09.pdf> \[June
-    2011\]. College Board. (2009). Science College Board Standards for
-    College Success. Available:
-    <http://professionals.collegeboard.com/profdownload/cbscs-science->
-    standards-2009.pdf \[June 2011\].
+    2011\].
 
-    National Council for the Social Studies. (2010). National Curriculum
-    Standards for Social Studies: A Framework for Teaching, Learning,
-    and Assessment. Silver Spring, MD: Author.
+[^8]:
+    ``` example
+    College Board. (2009). Science College Board Standards for College
+    ```
 
-[^3]:
+    Success. Available:
+    <http://professionals.collegeboard.com/profdownload/cbscs-science-standards-2009.pdf>
+    \[June 2011\].
+
+[^9]:
+    ``` example
+    National Council for the Social Studies. (2010). National
+    ```
+
+    Curriculum Standards for Social Studies: A Framework for Teaching,
+    Learning, and Assessment. Silver Spring, MD: Author.
+
+[^10]:
+    ``` example
+    National Research Council. (1996). National Science Education
+    ```
+
+    Standards. National Committee for Science Education Standards and
+    Assessment. Washington, DC: National Academy Press.
+
+[^11]:
+    ``` example
+    American Association for the Advancement of Science. (1993).
+    ```
+
+    Benchmarks for Science Literacy. Project 2061. New York: Oxford
+    University Press. Available:
+    <http://www.project2061.org/publications/bsl/online/index.phptxtRef=http%3A%2F%2Fwww%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3FtxtRef%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURIOld=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm>
+    \[June 2011\].
+
+[^12]:
+    ``` example
+    National Assessment of Educational Progress. (2009). Science
+    ```
+
+    Framework for the 2009 National Assessment of Educational Progress.
+    Washington, DC: U.S. Government Printing Office. Developed for the
+    National Assessment Governing Board. Available:
+    <http://www.nagb.org/publications/frameworks/science-09.pdf> \[June
+    2011\].
+
+[^13]:
+    ``` example
+    College Board. (2009). Science College Board Standards for College
+    ```
+
+    Success. Available:
+    <http://professionals.collegeboard.com/profdownload/cbscs-science-standards-2009.pdf>
+    \[June 2011\].
+
+[^14]:
     ``` example
     National Research Council. (2006). Systems for State Science
     ```

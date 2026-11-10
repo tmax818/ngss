@@ -113,9 +113,7 @@ from the states’ science educators, including teachers, and the public.
 
 #### A VISION FOR K-12 EDUCATION IN THE SCIENCES AND ENGINEERING
 
-The framework is designed to help realize a vision for education in the sciences
-and engineering in which students, over multiple years of school, actively engage
-in scientific and engineering practices and apply crosscutting concepts to deepen their understanding of the core ideas in these fields. The learning experiences
+The framework is designed to help realize a vision for education in the sciences and engineering in which students, over multiple years of school, actively engage in scientific and engineering practices and apply crosscutting concepts to deepen their understanding of the core ideas in these fields. The learning experiences
 provided for students should engage them with fundamental questions about the
 world and with how scientists have investigated and found answers to those questions. Throughout grades K-12, students should have the opportunity to carry out
 scientific investigations and engineering design projects related to the disciplinary
@@ -135,16 +133,7 @@ in addressing major challenges that confront society today, such as generating
 sufficient energy, preventing and treating diseases, maintaining supplies of clean
 water and food, and solving the problems of global environmental change. In
 addition, although not all students will choose to pursue careers in science, engineering, or technology, we hope that a science education based on the framework
-will motivate and inspire a greater number of people—and a better representation
-
-❚ The framework is designed to help realize a vision for education in
-the sciences and engineering in which students, over multiple years of
-school, actively engage in scientific and engineering practices and apply
-crosscutting concepts to deepen their understanding of the core ideas in
-these fields.
-❚
-
-of the broad diversity of the American population—to follow these paths than is the case today.
+will motivate and inspire a greater number of people—and a better representation of the broad diversity of the American population—to follow these paths than is the case today.
 
 The committee’s vision takes into account two major goals for K-12 science
 education: (1) educating all students in science and engineering and (2) providing
@@ -334,6 +323,7 @@ standards. In conducting the study and preparing its report, the committee will 
 include existing efforts to specify central ideas for science education, including the National Science Education
 Standards, AAAS Benchmarks, the 2009 NAEP Framework, and the redesign of the AP courses by the College
 Board.
+
 The conceptual framework developed by the committee will identify and articulate the core ideas in science
 around which standards should be developed by considering core ideas in the disciplines of science (life sciences,
 physical sciences, earth and space sciences, and applied sciences) as well as crosscutting ideas such as mathematization,* causal reasoning, evaluating and using evidence, argumentation, and model development. The committee will illustrate with concrete examples how crosscutting ideas may play out in the context of select core
@@ -352,11 +342,7 @@ The nature of the charge—to identify the scientific and engineering ideas
 and practices that are most important for all students in grades K-12 to learn—
 means that the committee ultimately had to rely heavily on its own expertise and
 collective judgments. To the extent possible, however, we used research-based
-evidence and past efforts to inform these judgments. Our approach combined
-16
-A Framework for K-12 Science Education
-Copyright National Academy of Sciences. All rights reserved.A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas
-evidence on the learning and teaching of science and engineering with a detailed
+evidence and past efforts to inform these judgments. Our approach combined evidence on the learning and teaching of science and engineering with a detailed
 examination of previous science standards documents. It is important to note that
 even where formal research is limited, the report is based on the collective experience of the science education and science education research communities. All the
 practices suggested have been explored in classrooms, as have the crosscutting
@@ -388,7 +374,7 @@ change so that they are aligned with the framework’s vision.
 ❚
 
 
-Public Feedback
+#### Public Feedback
 
 The committee recognized early in the process that obtaining feedback from a
 broad range of stakeholders and experts would be crucial to the success of the
@@ -414,7 +400,7 @@ revisions to the draft framework. Committee members reviewed these summaries
 and also had the opportunity to review the public feedback in detail. Based on
 discussions at the fifth and sixth meetings, the committee made substantial revisions to the framework based on the feedback. A summary of the major issues raised in the public feedback and the revisions the committee made is included in Appendix A.
 
-Structure of the Report
+#### Structure of the Report
 
 The first nine chapters of this report outline the principles underlying the frame-
 work, describe the core ideas and practices for K-12 education in the natural
@@ -431,7 +417,8 @@ would allow a systematic implementation of the framework and related standards.
 The chapter also specifies the kinds of research needed for future iterations of the
 standards to be better grounded in evidence.
 
-NEXT STEPS
+#### NEXT STEPS
+
 The National Governors Association and the Council of Chief State School
 Officers have developed “Common Core State Standards” in mathematics and
 language arts, and 43 states and the District of Columbia have adopted these standards as of early 2011. The anticipation of a similar effort for science standards
@@ -440,31 +427,27 @@ in this report.
 To maintain the momentum, the Carnegie Corporation commissioned the
 nonpartisan and nonprofit educational reform organization Achieve, Inc., to lead
 states in developing new science standards based on the NRC framework in this
-report. There is no prior commitment from multiple states to adopt such stan-
-dards, so the process will be different from the Common Core process used for
+report. There is no prior commitment from multiple states to adopt such standards, so the process will be different from the Common Core process used for
 mathematics and language arts. But it is expected that Achieve will form partner-
 ships with a number of states in undertaking this work and will offer multiple
 opportunities for public comment.
 As our report was being completed, Achieve’s work on science standards
 was already under way, starting with an analysis of international science bench-
 marking in high-performing countries that is expected to inform the standards
-development process. We understand that Achieve has also begun some prelimi-
-nary planning for that process based on the draft framework that was circulated
+development process. We understand that Achieve has also begun some preliminary planning for that process based on the draft framework that was circulated
 for public comment in summer 2010. The relevance of such work should deepen
 once the revised framework in this report, on which Achieve’s standards will be
 based, is released. It should be noted, however, that our study and the framework
 described in this report are independent of the work of Achieve.
 The framework and any standards that will be based on it make explicit the
-goals around which a science education system should be organized [9]. The com-
-mittee recognizes, however, that the framework and subsequent standards will not
+goals around which a science education system should be organized [9]. The committee recognizes, however, that the framework and subsequent standards will not
 A New Conceptual Framework
 Copyright National Academy of Sciences. All rights reserved.
 19A Framework for K-12 Science Education: Practices, Crosscutting Concepts, and Core Ideas
 lead to improvements in K-12 science education unless the other components of
 the system—curriculum, instruction, professional development, and assessment—
 change so that they are aligned with the framework’s vision. Thus the framework
-and standards are necessary but not sufficient to support the desired improve-
-ments. In Chapter 10, we address some of the challenges inherent in achieving
+and standards are necessary but not sufficient to support the desired improvements. In Chapter 10, we address some of the challenges inherent in achieving
 such alignment.
 
 
@@ -472,37 +455,18 @@ such alignment.
 
 [1]: Schmidt, W.H., McKnight, C.C., and Raizen, S. (1997). A Splintered Vision: An Investigation of U.S. Science and Mathematics Education. U.S. National Research Center for the Third International Mathematics and Science Study. Boston, MA: Kluwer Academic.
 
-National Academy of Engineering and National Research Council. (2009).
-Engineering in K-12 Education: Understanding the Status and Improving the
-Prospect. Committee on K-12 Engineering Education. L. Katehi, G. Pearson, and
-M. Feder (Eds.). National Academy of Engineering. Board on Science Education,
-Center for Education, Division of Behavioral and Social Sciences and Education.
-Washington, DC: The National Academies Press.
+[2]: National Academy of Engineering and National Research Council. (2009). Engineering in K-12 Education: Understanding the Status and Improving the Prospect. Committee on K-12 Engineering Education. L. Katehi, G. Pearson, and M. Feder (Eds.). National Academy of Engineering. Board on Science Education, Center for Education, Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press.
 
-National Research Council. (1996). National Science Education Standards. National
-Committee for Science Education Standards and Assessment. Washington, DC:
-National Academy Press.
+[3]: National Research Council. (1996). National Science Education Standards. National Committee for Science Education Standards and Assessment. Washington, DC: National Academy Press.
 
-American Association for the Advancement of Science. (1993). Benchmarks for
-Science Literacy. Project 2061. New York: Oxford University Press. Available: http://
-www.project2061.org/publications/bsl/online/index.php?txtRef=http%3A%2F%2F
-www%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3Ftxt
-Ref%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURI
-Old=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm [June 2011].
+[4]: American Association for the Advancement of Science. (1993). Benchmarks for Science Literacy. Project 2061. New York: Oxford University Press. Available: http://www.project2061.org/publications/bsl/online/index.phptxtRef=http%3A%2F%2Fwww%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3FtxtRef%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURIOld=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm [June 2011].
 
-American Association for the Advancement of Science. (2007). Atlas of Science
-Literacy, Volumes 1 and 2. Project 2061. Washington, DC: Author.
-National Assessment of Educational Progress. (2009). Science Framework for
-the 2009 National Assessment of Educational Progress. Washington, DC: U.S.
-Government Printing Office. Developed for the National Assessment Governing
-Board. Available: http://www.nagb.org/publications/frameworks/science-09.pdf [June
-2011].
-College Board. (2009). Science College Board Standards for College Success.
-Available: http://professionals.collegeboard.com/profdownload/cbscs-science-
-standards-2009.pdf [June 2011].
+[5]: American Association for the Advancement of Science. (2007). Atlas of Science Literacy, Volumes 1 and 2. Project 2061. Washington, DC: Author.
 
-National Council for the Social Studies. (2010). National Curriculum Standards for
-Social Studies: A Framework for Teaching, Learning, and Assessment. Silver Spring,
-MD: Author.
+[6]: National Assessment of Educational Progress. (2009). Science Framework for the 2009 National Assessment of Educational Progress. Washington, DC: U.S. Government Printing Office. Developed for the National Assessment Governing Board. Available: http://www.nagb.org/publications/frameworks/science-09.pdf [June 2011].
+
+[7]: College Board. (2009). Science College Board Standards for College Success. Available: http://professionals.collegeboard.com/profdownload/cbscs-science-standards-2009.pdf [June 2011].
+
+[8]: National Council for the Social Studies. (2010). National Curriculum Standards for Social Studies: A Framework for Teaching, Learning, and Assessment. Silver Spring, MD: Author.
 
 [9]: National Research Council. (2006). Systems for State Science Assessment. M.R. Wilson and M.W. Bertenthal (Eds.). Committee on Test Design for K-12 Science Achievement. Board on Testing and Assessment, Center for Education. Division of Behavioral and Social Sciences and Education. Washington, DC: The National Academies Press.

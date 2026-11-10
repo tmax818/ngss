@@ -697,41 +697,42 @@ Vision: An Investigation of U.S. Science and Mathematics Education. U.S.
 National Research Center for the Third International Mathematics and
 Science Study. Boston, MA: Kluwer Academic.
 
-National Academy of Engineering and National Research Council. (2009).
-Engineering in K-12 Education: Understanding the Status and Improving
-the Prospect. Committee on K-12 Engineering Education. L. Katehi, G.
-Pearson, and M. Feder (Eds.). National Academy of Engineering. Board on
-Science Education, Center for Education, Division of Behavioral and
-Social Sciences and Education. Washington, DC: The National Academies
-Press.
+[2]: National Academy of Engineering and National Research Council.
+(2009). Engineering in K-12 Education: Understanding the Status and
+Improving the Prospect. Committee on K-12 Engineering Education. L.
+Katehi, G. Pearson, and M. Feder (Eds.). National Academy of
+Engineering. Board on Science Education, Center for Education, Division
+of Behavioral and Social Sciences and Education. Washington, DC: The
+National Academies Press.
 
-National Research Council. (1996). National Science Education Standards.
-National Committee for Science Education Standards and Assessment.
-Washington, DC: National Academy Press.
+[3]: National Research Council. (1996). National Science Education
+Standards. National Committee for Science Education Standards and
+Assessment. Washington, DC: National Academy Press.
 
-American Association for the Advancement of Science. (1993). Benchmarks
-for Science Literacy. Project 2061. New York: Oxford University Press.
-Available: http://
-www.project2061.org/publications/bsl/online/index.php?txtRef=http%3A%2F%2F
-www%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3Ftxt
-Ref%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURI
-Old=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm [June 2011].
+[4]: American Association for the Advancement of Science. (1993).
+Benchmarks for Science Literacy. Project 2061. New York: Oxford
+University Press. Available:
+http://www.project2061.org/publications/bsl/online/index.phptxtRef=http%3A%2F%2Fwww%2Eproject2061%2Eorg%2Fpublications%2Fbsl%2Fdefault%2Ehtm%3FtxtRef%3D%26txtURIOld%3D%252Ftools%252Fbsl%252Fdefault%2Ehtm&txtURIOld=%2Fpublications%2Fbsl%2Fonline%2Fbolintro%2Ehtm
+[June 2011].
 
-American Association for the Advancement of Science. (2007). Atlas of
-Science Literacy, Volumes 1 and 2. Project 2061. Washington, DC: Author.
-National Assessment of Educational Progress. (2009). Science Framework
-for the 2009 National Assessment of Educational Progress. Washington,
-DC: U.S. Government Printing Office. Developed for the National
-Assessment Governing Board. Available:
+[5]: American Association for the Advancement of Science. (2007). Atlas
+of Science Literacy, Volumes 1 and 2. Project 2061. Washington, DC:
+Author.
+
+[6]: National Assessment of Educational Progress. (2009). Science
+Framework for the 2009 National Assessment of Educational Progress.
+Washington, DC: U.S. Government Printing Office. Developed for the
+National Assessment Governing Board. Available:
 http://www.nagb.org/publications/frameworks/science-09.pdf [June 2011].
-College Board. (2009). Science College Board Standards for College
-Success. Available:
-http://professionals.collegeboard.com/profdownload/cbscs-science-
-standards-2009.pdf [June 2011].
 
-National Council for the Social Studies. (2010). National Curriculum
-Standards for Social Studies: A Framework for Teaching, Learning, and
-Assessment. Silver Spring, MD: Author.
+[7]: College Board. (2009). Science College Board Standards for College
+Success. Available:
+http://professionals.collegeboard.com/profdownload/cbscs-science-standards-2009.pdf
+[June 2011].
+
+[8]: National Council for the Social Studies. (2010). National
+Curriculum Standards for Social Studies: A Framework for Teaching,
+Learning, and Assessment. Silver Spring, MD: Author.
 
 [9]: National Research Council. (2006). Systems for State Science
 Assessment. M.R. Wilson and M.W. Bertenthal (Eds.). Committee on Test
