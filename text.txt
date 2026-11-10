@@ -83,7 +83,8 @@ ETS2: Links among engineering, technology, science, and society
 
 ### 1 a new conceptual framework
 
-Science and engineering—significant parts of human culture that represent some of the pinnacles of human achievement—are not only major intellectual enterprises but also can improve people’s lives in fundamental ways. Although the intrinsic beauty of science and a fascination with how the world works have driven exploration and discovery for centuries, many of the challenges
+Science and engineering—significant parts of human culture that represent some of the pinnacles of human achievement—are not only major intellectual enterprises but also can improve people’s lives in fundamental ways. 
+Although the intrinsic beauty of science and a fascination with how the world works have driven exploration and discovery for centuries, many of the challenges
 that face humanity now and in the future—related, for example, to the environment, energy, and health—require social, political, and economic solutions that
 must be informed deeply by knowledge of the underlying science and engineering.
 
