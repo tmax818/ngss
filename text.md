@@ -43,19 +43,16 @@ engineering design.
 
 The committee recommends that science education in grades K-12 be built
 around three major dimensions (see Box S-1 for details of each
-dimension). These dimensions are
-
-- Scientific and engineering practices
-- Crosscutting concepts that unify the study of science and engineering
-  through their common application across fields
-- Core ideas in four disciplinary areas: physical sciences; life
-  sciences; earth and space sciences; and engineering technology, and
-  applications of science
+dimension). These dimensions are - Scientific and engineering
+practices - Crosscutting concepts that unify the study of science and
+engineering through their common application across fields - Core ideas
+in four disciplinary areas: physical sciences; life sciences; earth and
+space sciences; and engineering technology, and applications of science
 
 To support students\' meaningful learning in science and engineering,
 all three dimensions need to be integrated into standards, curriculum,
 instruction, and assessment. Engineering and technology are featured
-alongside the natural sciences (physical sciences, life sciences, and
+alongside the natural sciences(physical sciences, life sciences, and
 earth and space sciences) for two critical reasons: (1) to reflect the
 importance of understanding the human-built world and (2) to recognize
 the value of better integrating the teaching and learning of science,
@@ -266,16 +263,17 @@ educators, including teachers, and the public.
     that approach neglects the need for students to develop an
     understanding of the practices of science and engineering, which is
     as important to understanding science as knowledge of its content.
-
     The framework endeavors to move science education toward a more
-    coherent vision in three ways. First, it is built on the notion of
-    learning as a developmental progression. It is designed to help
-    children continually build on and revise their knowledge and
-    abilities, starting from their curiosity about what they see around
-    them and their initial conceptions about how the world works. The
-    goal is to guide their knowledge toward a more scientifically based
-    and coherent view of the sciences and engineering, as well as of the
-    ways in which they are pursued and their results can be used.
+    coherent vision in three ways.
+
+    First, it is built on the notion of learning as a developmental
+    progression. It is designed to help children continually build on
+    and revise their knowledge and abilities, starting from their
+    curiosity about what they see around them and their initial
+    conceptions about how the world works. The goal is to guide their
+    knowledge toward a more scientifically based and coherent view of
+    the sciences and engineering, as well as of the ways in which they
+    are pursued and their results can be used.
 
     Second, the framework focuses on a limited number of core ideas in
     science and engineering both within and across the disciplines. The
@@ -291,12 +289,14 @@ educators, including teachers, and the public.
     conceptual grounding.
 
     Third, the framework emphasizes that learning about science and
-    engineer- ing involves integration of the knowledge of scientific
+    engineering involves integration of the knowledge of scientific
     explanations (i.e., content knowledge) and the practices needed to
-    engage in scientific inquiry and engineer- ing design. Thus the
+    engage in scientific inquiry and engineering design. Thus the
     framework seeks to illustrate how knowledge and practice must be
     intertwined in designing learning experiences in K-12 science
-    education. ​#### Limitations of This Framework
+    education.
+
+3.  Limitations of This Framework
 
     The terms "science," "engineering," and "technology" are often
     lumped together as a single phrase, both in this report and in
@@ -455,7 +455,7 @@ educators, including teachers, and the public.
     practices and crosscutting concepts has application across this
     broader realm of science.
 
-3.  Computer Science and Statistics
+4.  Computer Science and Statistics
 
     Computer science and statistics are other areas of science that are
     not addressed here, even though they have a valid presence in K-12
@@ -474,7 +474,7 @@ educators, including teachers, and the public.
     aspects, along with mathematical thinking, in our discussion of
     science practices in Chapter 3.
 
-4.  ABOUT THIS REPORT
+5.  ABOUT THIS REPORT
 
     The Committee on a Conceptual Framework for New K-12 Science
     Education Standards was established by the NRC to undertake the
@@ -495,7 +495,7 @@ educators, including teachers, and the public.
     least three grade levels and to develop guidance for implementation
     (see Box 1-1).
 
-5.  Scope and Approach
+6.  Scope and Approach
 
     The committee carried out the charge through an iterative process of
     amassing information, deliberating on it, identifying gaps,
@@ -594,7 +594,7 @@ educators, including teachers, and the public.
     and assessment--- change so that they are aligned with the
     framework\'s vision. ❚
 
-6.  Public Feedback
+7.  Public Feedback
 
     The committee recognized early in the process that obtaining
     feedback from a broad range of stakeholders and experts would be
@@ -631,7 +631,7 @@ educators, including teachers, and the public.
     issues raised in the public feedback and the revisions the committee
     made is included in Appendix A.
 
-7.  Structure of the Report
+8.  Structure of the Report
 
     The first nine chapters of this report outline the principles
     underlying the frame- work, describe the core ideas and practices
@@ -651,7 +651,7 @@ educators, including teachers, and the public.
     kinds of research needed for future iterations of the standards to
     be better grounded in evidence.
 
-8.  NEXT STEPS
+9.  NEXT STEPS
 
     The National Governors Association and the Council of Chief State
     School Officers have developed "Common Core State Standards" in
@@ -693,7 +693,7 @@ educators, including teachers, and the public.
     10, we address some of the challenges inherent in achieving such
     alignment.
 
-9.  REFERENCES
+10. REFERENCES
 
 [^1]:
     ``` example
