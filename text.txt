@@ -78,13 +78,11 @@ ETS2: Links among engineering, technology, science, and society
 
 ### 1 a new conceptual framework
 
-Science and engineering—significant parts of human culture that represent some of the pinnacles of human achievement—are not only major intellectual enterprises but also can improve people’s lives in fundamental ways. Although the intrinsic beauty of science and a fascination with how the world
-works have driven exploration and discovery for centuries, many of the challenges
+Science and engineering—significant parts of human culture that represent some of the pinnacles of human achievement—are not only major intellectual enterprises but also can improve people’s lives in fundamental ways. Although the intrinsic beauty of science and a fascination with how the world works have driven exploration and discovery for centuries, many of the challenges
 that face humanity now and in the future—related, for example, to the environment, energy, and health—require social, political, and economic solutions that
 must be informed deeply by knowledge of the underlying science and engineering.
 
-Many recent calls for improvements in K-12 science education have focused on the need for science and engineering professionals to keep the United States competitive in the international arena. Although there is little doubt that this need is genuine, a compelling case can also be made that understanding science and engineering, now more than ever, is essential for every American citizen. Science, engineering, and the technologies they influence permeate every aspect
-of modern life. Indeed, some knowledge of science and engineering is required to engage with the major public policy issues of today as well as to make informed everyday decisions, such as selecting among alternative medical treatments or determining how to invest public funds for water supply options. In addition, understanding science and the extraordinary insights it has produced can be
+Many recent calls for improvements in K-12 science education have focused on the need for science and engineering professionals to keep the United States competitive in the international arena. Although there is little doubt that this need is genuine, a compelling case can also be made that understanding science and engineering, now more than ever, is essential for every American citizen. Science, engineering, and the technologies they influence permeate every aspect of modern life. Indeed, some knowledge of science and engineering is required to engage with the major public policy issues of today as well as to make informed everyday decisions, such as selecting among alternative medical treatments or determining how to invest public funds for water supply options. In addition, understanding science and the extraordinary insights it has produced can be
 meaningful and relevant on a personal level, opening new worlds to explore
 and offering lifelong opportunities for enriching people’s lives. In these contexts,
 learning science is important for everyone, even those who eventually choose
@@ -103,8 +101,7 @@ and technology.
 By framework we mean a broad description of the content and sequence of learning expected of all students by the completion of high school—but not at the level of detail of grade-by-grade standards or, at the high school level, course descriptions and standards. Instead, as this document lays out, the framework is intended as a guide to standards developers as well as for curriculum designers, assessment developers, state and district science administrators, professionals responsible for science teacher education, and science educators working in informal settings.
 
 There are two primary reasons why a new framework is needed at this time.
-One is that it has been 15 or more years since the last comparable effort at the
-national scale, and new understandings both in science and in teaching and learning science have developed over that time. The second is the opportunity provided
+One is that it has been 15 or more years since the last comparable effort at the national scale, and new understandings both in science and in teaching and learning science have developed over that time. The second is the opportunity provided
 by a movement of multiple states to adopt common standards in mathematics
 and in language arts, which has prompted interest in comparable documents for
 science. This framework is the first part of a two-stage process to produce a next-generation set of science standards for voluntary adoption by states. The second
